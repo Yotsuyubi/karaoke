@@ -1,0 +1,7 @@
+IR/
+.venv/
+lightning_logs/
+musdb/
+*.zip
+*.wav
+__pycache__/
